@@ -1,0 +1,30 @@
+= Changelog =
+
+= 1.2.1 - Oct 1, 2024=
+* Fix: Instagram widget issue
+* Fix: Admin bar elementor link color issue
+* New: Heading elementor widget added
+
+= 1.2.0 - Aug 7, 2024=
+* New: Number of Grid settings added to each product widget to control product grid.
+* Fix: WooCommerce outdated template issue
+
+= 1.1.1 - Apr 3, 2024=
+* New: All kidify transients clear button added to the wp toolbar
+* Fix: Latest WordPress compatibility issue
+* Fix: Latest WooCommerce compatibility issue
+* Fix: WooCommerce outdated template issue
+
+= 1.1.0 - Jan 24, 2024=
+* New: Home 5 demo released
+* New: Color picker option added
+* New: Currency & Translate menu show/hide control added
+* Fix: Offcanvas menu logo dynamic
+* Fix: Currency Switcher bug fixed
+* Fix: Assets file path issue fixed
+
+= 1.0.1 - Jan 6, 2024=
+* New: Color picker option added
+
+= 1.0.0 - Dec 29, 2023=
+* Initial Release
